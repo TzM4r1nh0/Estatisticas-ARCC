@@ -8,13 +8,13 @@
   "description": "Aplicação de estatísticas e gestão de futsal",
   "icons": [
     {
-      "src": "icon-centered.png",
+      "src": "icon-centered (1).png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-centered.png",
+      "src": "icon-centered (1).png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
