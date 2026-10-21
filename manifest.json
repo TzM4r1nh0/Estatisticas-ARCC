@@ -1,0 +1,9 @@
+{
+  "name": "Estatísticas ARCC",
+  "short_name": "ARCC Stats",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "Aplicação de estatísticas e gestão de futsal"
+}
