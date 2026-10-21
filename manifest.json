@@ -1,6 +1,6 @@
 {
-  "name": "Estatísticas ARCC",
-  "short_name": "ARCC Stats",
+  "name": "Estatística ARCC",
+  "short_name": "Estatística ARCC",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#121214",
